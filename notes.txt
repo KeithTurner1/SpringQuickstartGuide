@@ -14,8 +14,18 @@ http://localhost:8080/hello
 # Open browser and type
 http://localhost:8080/hello?name=Amy
 
-#Add
 
-# Create the get initial project
-git clone https://github.com/KeithTurner1/SpringQuickstart.git
+# Create the GitHub initial project
+https://github.com/KeithTurner1/SpringQuickstart.git
+
+# From IntelliJ "link" InteeliJ and GitHub
+Select ‘VCS’ menu -> Import in Version Control -> Share project on GitHub.
+You may be prompted for you GitHub, or IntelliJ Master, password
+Select the files to commit
+
+# From IntelliJ add files to GitHub
+Right click -> Git -> Add
+Commit files (Ctrl-K or VCS -> Git -> Commit) [Commit & push easier, but can also just Commit]
+If files not pushed in step above, VCS -> Git -> Push
+
 
