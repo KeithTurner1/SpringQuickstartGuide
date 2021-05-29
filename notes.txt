@@ -1,0 +1,21 @@
+# SpringQuickstart
+https://spring.io/quickstart
+
+#Create a Spring Boot project
+#From the main menu, select File | New | Project.
+#In the left pane of the New Project wizard, select Spring Initializr.
+
+# Build Maven project
+./mvnw spring-boot:run
+
+# Open browser and type
+http://localhost:8080/hello
+
+# Open browser and type
+http://localhost:8080/hello?name=Amy
+
+#Add
+
+# Create the get initial project
+git clone https://github.com/KeithTurner1/SpringQuickstart.git
+
